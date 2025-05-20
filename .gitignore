@@ -1,0 +1,19 @@
+# Mengabaikan folder whisper.cpp
+whisper.cpp/
+
+# Mengabaikan folder coqui_utils
+coqui_utils/
+
+# Mengabaikan file .env yang berisi API Key atau informasi sensitif lainnya
+.env
+
+# Mengabaikan file speakers.pth (biasanya berisi model atau file terkait yang besar)
+speakers.pth
+
+# Mengabaikan file Python cache
+__pycache__/
+
+# Mengabaikan file dan folder lainnya yang tidak perlu, jika ada
+*.pyc
+*.pyo
+*.pyd
