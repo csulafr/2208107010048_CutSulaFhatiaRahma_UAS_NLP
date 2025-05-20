@@ -65,5 +65,5 @@ python app.py
 - Disarankan menggunakan model Whisper: `ggml-large-v3-turbo`.
 - Gunakan speaker: `wibowo` dari model Coqui v1.2.
 
-## 📋 Hasil dan Tampilan Frontend
+## 📋 Tampilan Frontend
 ![Screenshot](images/Screenshot1.png)
